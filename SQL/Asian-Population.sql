@@ -2,8 +2,8 @@
 
 Note: CITY.CountryCode and COUNTRY.Code are matching key columns.
 
-https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true
-
+https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true2
+<a href = "https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true"> HackerRank Task </a>
 */
 
 SELECT SUM(city.population)
